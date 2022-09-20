@@ -1,2 +1,1 @@
-# ROOT_Plotter
-Plotting from root files
+# AraSim_Reader
